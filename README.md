@@ -4,6 +4,8 @@ guLF - Gate Size Updater for Logic Friday
 guLF allows to change the gate sizes used by Logic Friday during gate diagram
 synthesis.
 
+[Download guLF v1.0 (for Windows)](https://github.com/IFTE-EDA/guLF/releases/download/v1.0/guLF-1.0.zip)
+
 Introduction
 ------------
 
