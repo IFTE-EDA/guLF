@@ -9,7 +9,7 @@ synthesis.
 Introduction
 ------------
 
-Logic Friday (http://sontrak.com/) is a very good and easy-to-use tool for
+Logic Friday (~~http://sontrak.com/~~, [via Internet Archive](https://web.archive.org/web/20180204131842/http://sontrak.com/)) is a very good and easy-to-use tool for
 logic optimization, analysis, and synthesis. It uses espresso for logic
 function minimization and misII for gate diagram synthesis. 
 
@@ -48,7 +48,7 @@ dist/guLF contains all files of the graphical editor (see next section).
 Installation
 ------------
 
-1. Download and install Logic Friday (http://sontrak.com)
+1. Download and install Logic Friday (~~http://sontrak.com/~~, [via Internet Archive](https://web.archive.org/web/20180204131842/http://sontrak.com/))
 2. Go to its installation directory (default: `C:\Program Files (x86)\Logic Friday 1`)
 3. Change to directory misii and rename misII.exe to misII-orig.exe
 3. Copy all files from directory misII (that comes with guLF) here
